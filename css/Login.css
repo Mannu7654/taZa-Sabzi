@@ -1,0 +1,81 @@
+body {
+    margin: 20px;
+    padding: 0;
+    background-color: rosybrown;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+#abc
+{
+    margin: 10px;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+#abc1
+{
+    margin-left: 40px;
+    font-weight: bolder;
+    background-color: white;
+}
+
+#abc2
+{
+  font-weight: bold;
+  text-decoration: white;
+}
+
+/* Form design */
+
+h1 {
+    margin-top: 60px;
+    font-size: 32px;
+    color: #2d2d2d;
+}
+
+form {
+    margin-top: 60px;
+    background-color: lightsteelblue;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    margin: auto;
+}
+
+input[type="text"], input[type="password"] {
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #cfcfcf;
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #2d2d2d;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #2d2d2d;
+    font-weight: bold;
+    font-size: 16px;
+}
+button[type="submit"] {
+    background-color: rgb(132, 132, 144);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+button[type="submit"]:hover {
+    background-color: #FF5733;
+}
+
+p {
+    display: inline-block;
+    margin: 0;
+    color: #2d2d2d;
+    font-size: 16px;
+}

@@ -1,0 +1,190 @@
+body{
+    margin: 20px;
+    padding: 0px;
+    background-color: rosybrown;
+}
+#abc
+{
+    margin: 10px;
+    font-weight: bolder;
+}
+
+#abc1 a
+{
+    text-decoration: none;
+}
+
+#abc1
+{
+    margin-left: 40px;
+    font-weight: bolder;
+    background-color: white;
+    text-decoration: none;
+}
+#abc2
+{
+  font-weight: bold;
+  text-decoration: white;
+}
+
+/*         Crousal Image creation         */
+
+.d-block {
+    height: 500px;
+    width: 100%;
+}
+
+/*              Card Style               */
+
+.card
+{
+    border-radius: 10%;
+    height: 450px;
+    width: 300px;
+    margin: 10px;
+    background-color: lightslategray;
+}
+
+#a1
+{ 
+    height: 300px;
+    width: 300px;
+} 
+/* .card
+{
+    border-radius: 10%;
+    height: 450px;
+    margin: 10px;
+    background-color: lightslategray;
+}
+
+#a1:hover
+{
+    opacity: 0.3;
+    height: 320px;
+    width: 320px;
+} */
+
+/*                 Footer Creation               */
+
+.footer {
+   background-color: dimgrey;
+   height:15% ;
+
+} 
+  
+.first {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: rgb(206,206,206);
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
+  
+.first h3 {
+    font-size: 20px;
+    letter-spacing: 1px;
+    position: relative;
+    margin-bottom: 20px;
+    font-size: 1.6em;
+    color: #fff;
+    padding-bottom: 0.5em;
+}
+  
+  
+.first li {
+    list-style: none;
+     padding-bottom: 15px;
+}
+
+.first a{
+    color: antiquewhite;
+    font-weight: bolder;
+    text-decoration: none;
+}
+          
+.first a:hover{
+     color:antiquewhite;
+    transition: 0.2s;
+    text-shadow: 1px 1px 20px red;
+    font-size: 20px;
+    text-decoration: none
+          
+}
+  
+.second {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: rgb(206,206,206);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+  
+  
+.second h3 {
+    font-size: 20px;
+    letter-spacing: 2px;
+    position: relative;
+    margin-bottom: 20px;
+    font-size: 1.6em;
+    color: #fff;
+    padding-bottom: 0.5em;
+}
+  
+  
+.second li {
+    list-style: none;
+    padding-bottom: 30px;
+}
+
+.second a {
+    color: antiquewhite;
+    font-weight: bolder;
+    text-decoration: none;
+}
+  
+  
+.second a:hover{
+    color: #fff;
+    transition: 0.2s;
+    text-shadow: 1px 1px 20px red;
+    text-decoration: none;
+    font-size: 20px;
+}
+  
+  
+  
+.third {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: rgb(206,206,206);
+    font-family: 'Poppins', sans-serif;
+    text-align: right;
+}
+  
+.third h3 {
+    font-size: 20px;
+    letter-spacing: 2px;
+    position: relative;
+    margin-bottom: 20px;
+    font-size: 1.6em;
+    color: #fff;
+    padding-bottom: 0.5em;
+} 
+  
+.third li {
+    color: #fff;
+    list-style: none;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+  
+ .foot-bottom
+ {
+    text-align: center;
+    padding: 1rem;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    
+ }

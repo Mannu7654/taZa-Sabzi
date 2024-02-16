@@ -1,0 +1,31 @@
+body{
+    margin: 20px;
+    padding: 0px;
+    background-color: pink;
+}
+#abc
+{
+    margin: 10px;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+#abc1 a
+{
+    text-decoration: none;
+}
+
+#abc1
+{
+    margin-left: 40px;
+    font-weight: bolder;
+    background-color: white;
+    text-decoration: none;
+}
+#abc2
+{
+  font-weight: bold;
+  text-decoration: white;
+}
+
+/* SignUp Page CSS */
